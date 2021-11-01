@@ -1,0 +1,19 @@
+.list {
+  border: 1px solid gray;
+  margin: 10px 0;
+}
+.verti {
+  margin-top: 25px;
+}
+.descrip {
+  color: gray;
+  font-size: small;
+}
+div p:first-child {
+  font-weight: bold;
+  margin-top: 5px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
