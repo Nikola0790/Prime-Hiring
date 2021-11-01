@@ -17,7 +17,7 @@ npm install
 
 To Start JSON Server:
 
-npx json-server --watch data/db.json -port 8000
+npx json-server --watch data/db.json --port 8000
 
 To Start Server React:
 
